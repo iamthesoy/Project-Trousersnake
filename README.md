@@ -9,7 +9,7 @@ The image below is of an installation in a 2.4 with rear mounted electronics and
 ![installed on voron 2.4](https://github.com/iamthesoy/Project-Trousersnake/blob/main/Images/IMG_2058.jpg?raw=true)
 
 
-# I want one
+# I want one - How do i get it?
 Kits / Presoldered boards:
 https://iamthe.soy
 

@@ -13,7 +13,7 @@ The image below is of an installation in a 2.4 with rear mounted electronics and
 Kits / Presoldered boards:
 https://iamthe.soy
 
-BOM:
+BOM for DIY:
 
 For Gantry Board
  - 1x Gantry PCB 

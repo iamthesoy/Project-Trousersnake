@@ -25,12 +25,26 @@ For Gantry Board
  - 3x 20 way IDC crimp connectors
  
  For Base Board
-  - 1x Base board 
+ - 1x Base board 
  - 1x 20 way IDC headers 
  - 4x JST XH 4 pin headers and crimps / connectors 
  - 1x JST XH 3 pin header and crimps / connectors 
  - 1x JST XH 2 pin header and crimps / connectors 
  - 1x 20 way IDC crimp connector
+ 
+ 2x 700mm lengths of 20 core tempflex (https://www.digikey.com.au/en/products/detail/molex/1000570101/6025665 or https://au.mouser.com/ProductDetail/Molex-Temp-Flex/100057-0101?qs=chTDxNqvsylX09wA1K%2Fmpw%3D%3D)
+
+If using toolhead passthrough you'll also need 
+1x roadkill toolhead board
+~800mm of tempflex cable for the run between the redirector and toolhead
+1x roadkill redirector with 2x IDC crimp connectors
+1x roadkill square with 1x IDC crimp connector
+~100mm length of 20 core IDC cable
+
+For roadkill square and redirector (base board for toolhead)
+See makerbogans github:https://github.com/MakerBogans/roadkill
+
+You *could* cheap out on cable and use cheap generic cable but it is not recommended, particularly for the gantry to toolhead cable. You can most likely get away with cheap cable for the two cables to the base.
 
 Ensure you order the gantry board with the correct specs, you can cheap out on the base board, but the gantry board needs to be done properly. Allpcb will do it for $1 plus shipping as long as it's green. The most important specs are spacing, hole size and copper thickness. https://allpcb.com
 

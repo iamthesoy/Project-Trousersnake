@@ -34,4 +34,4 @@ For Gantry Board
 
 Ensure you order the gantry board with the correct specs, you can cheap out on the base board, but the gantry board needs to be done properly. Allpcb will do it for $1 plus shipping as long as it's green. https://allpcb.com
 
-![pcb specs](https://github.com/iamthesoy/Project-Trousersnake/blob/main/Images/IMG_2058.jpg?raw=true](https://github.com/iamthesoy/Project-Trousersnake/blob/main/Images/pcb%20specs.png?raw=true)
+![pcb specs](https://github.com/iamthesoy/Project-Trousersnake/blob/main/Images/pcb%20specs.png?raw=true)
